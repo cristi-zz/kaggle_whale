@@ -1,0 +1,5 @@
+# Manual edited. Hope it helps.
+opencv >= 3.0
+scikit-learn
+scikit-image
+numpy
