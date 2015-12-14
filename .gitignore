@@ -1,0 +1,11 @@
+.idea
+*.pyc
+cpp/shape_context_test/shape_context_test.v11.suo
+cpp/shape_context_test/shape_context_test.opensdf
+cpp/shape_context_test/shape_context_test.sdf
+*.exe
+*.ipch
+cpp/shape_context_test/shape_context_test/Debug/*
+cpp/shape_context_test/Debug/
+*.asv
+*.asv
