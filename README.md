@@ -27,6 +27,7 @@ The classifier (dec_tree_model.pkl), some random forest I think is trained on 20
 
 Keep reading the code for improvement tips and for how exactly I did it.
 
+For a list of "bad" images check the end of the readme.
 
 ## The story (with feelings and pictures)
 
