@@ -10,6 +10,9 @@ The code is cutted out from my pipeline. If sth is broken, please comment here o
 ## Technical info about what worked
 
 Histogram and edge statistics + a small classifier detects contours that are whales.
+
+The pipeline starts by detecting some connected regions that are different from the general aspect of the image. Then a classifier decide if these regions are or not whales. If there is only one region it is outputted. If there are more, (or no region predicted by the classifier) the largest one is returned.
+
 I used [anlthms](https://github.com/anlthms/whale-2015)'s bonnet-tip and blowhead json files to train and validate the pipeline.
 The training and tuning was done on first 2000 whales from training set. The validation was on the rest of ~2500 images.
 96.81% regions had the point1 inside the image and 98.3% had the point2 inside the image. Because point2 is fairly inside the whale, you can say that ~2% of images are not whales.
