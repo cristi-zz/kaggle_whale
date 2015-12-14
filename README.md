@@ -63,126 +63,126 @@ The shortest path is the known one
 ## Addendum
 "Bad" images taken from the validation set.
 
-pt1 is out for c:\NOAA\test\w_2_t\w_4326.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_4427.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_4505.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_4529.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_4529.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_4620.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_4620.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_4661.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_4661.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_4797.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_4797.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_4883.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_4883.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_4939.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_4939.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_5044.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_5082.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_5084.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_5099.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_5099.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_5113.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_5117.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_5137.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_5214.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_5214.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_5244.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_5244.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_5428.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_5470.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_5554.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_5554.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_5773.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_5904.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_5904.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_6056.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_6161.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_6161.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_6174.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_6174.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_6176.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_6176.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_6252.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_6279.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_6553.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_6606.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_6636.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_6636.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_6669.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_6669.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_6731.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_6731.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_6732.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_6782.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_6782.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_6914.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_6939.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_6997.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_7025.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_7040.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_7040.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_7109.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_7112.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_7112.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_7268.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_7268.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_7362.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_7362.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_7444.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_7492.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_7531.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_7531.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_7638.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_7725.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_7745.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_7745.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_7970.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_7970.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_8029.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_8029.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_8152.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_8156.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_8156.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_8257.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_8257.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_8306.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_8382.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_8382.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_8420.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_8420.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_8512.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_8512.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_8567.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_8567.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_8572.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_8587.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_8587.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_8621.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_8750.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_8778.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_8778.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_8869.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_8953.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_8991.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_8991.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_9036.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_9036.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_9082.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_9095.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_9099.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_9153.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_9153.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_9191.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_9191.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_9249.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_9249.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_9258.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_9275.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_9388.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_9388.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_9402.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_9402.jpg
-pt1 is out for c:\NOAA\test\w_2_t\w_9440.jpg
-pt2 is out for c:\NOAA\test\w_2_t\w_9440.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_4326.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_4427.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_4505.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_4529.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_4529.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_4620.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_4620.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_4661.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_4661.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_4797.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_4797.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_4883.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_4883.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_4939.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_4939.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_5044.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_5082.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_5084.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_5099.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_5099.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_5113.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_5117.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_5137.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_5214.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_5214.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_5244.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_5244.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_5428.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_5470.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_5554.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_5554.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_5773.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_5904.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_5904.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_6056.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_6161.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_6161.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_6174.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_6174.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_6176.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_6176.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_6252.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_6279.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_6553.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_6606.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_6636.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_6636.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_6669.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_6669.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_6731.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_6731.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_6732.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_6782.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_6782.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_6914.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_6939.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_6997.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_7025.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_7040.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_7040.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_7109.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_7112.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_7112.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_7268.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_7268.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_7362.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_7362.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_7444.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_7492.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_7531.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_7531.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_7638.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_7725.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_7745.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_7745.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_7970.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_7970.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_8029.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_8029.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_8152.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_8156.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_8156.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_8257.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_8257.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_8306.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_8382.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_8382.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_8420.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_8420.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_8512.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_8512.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_8567.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_8567.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_8572.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_8587.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_8587.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_8621.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_8750.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_8778.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_8778.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_8869.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_8953.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_8991.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_8991.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_9036.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_9036.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_9082.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_9095.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_9099.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_9153.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_9153.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_9191.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_9191.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_9249.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_9249.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_9258.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_9275.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_9388.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_9388.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_9402.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_9402.jpg
+    pt1 is out for c:\NOAA\test\w_2_t\w_9440.jpg
+    pt2 is out for c:\NOAA\test\w_2_t\w_9440.jpg
